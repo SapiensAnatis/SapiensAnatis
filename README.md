@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay
 - 👀 I’m interested in computational physics and more back-end type programming.
-- 🌱 I’m currently learning C/C++ programming.
+- 🌱 I’m currently focusing on and learning more about C/C++ programming.
 
 <!---
 SapiensAnatis/SapiensAnatis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
