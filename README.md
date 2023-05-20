@@ -1,4 +1,0 @@
-- 👋 Hi, I’m Jay!
-- 👀 Here you can find all the ✨ horrible code ✨ I've written over the years.
-- ✍ At the moment I'm mainly working in C#, but in the past I've used C, C++, Python, Rust, Lua, and other languages.
-- 📬 I can be reached via email at jay0[-at-]me.com, or on Discord as `dreadfullydistinct#1458`.
